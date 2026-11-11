@@ -1,0 +1,6 @@
+{
+  "name": "BazarBD – Bangladesh Daily Essential Commodity Price Tracker",
+  "description": "Live tracking, historical comparison, and government market price monitoring for everyday essential commodities across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
